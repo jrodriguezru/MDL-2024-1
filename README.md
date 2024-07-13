@@ -6,7 +6,8 @@ Repositorio para el curso de Matemáticas para el Aprendizaje de Máquina. 2024-
 Para el proyecto final, se trabajó en grupo. Los integrantes del grupo son:
 - Santiago Jimenez Salazar
 - Cristhian Jose Pardo Mercado
-- Juan Antonio Rodríguez Rubio  
+- Juan Antonio Rodríguez Rubio
+
 Todos los entregables de este proyecto fueron desarrollados en grupo.  
 El link del video es: https://youtu.be/gPwQiCpQNbQ  
 El link del repositorio donde se encuentra el código de experimentos es: https://github.com/CristhianJPardo/alphageometry_math_of_dl
